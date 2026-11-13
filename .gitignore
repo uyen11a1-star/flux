@@ -1,0 +1,14 @@
+target/
+.gradle/
+build/
+.cxx/
+.externalNativeBuild/
+.idea/
+*.iml
+local.properties
+captures/
+*.apk
+*.aab
+*.so
+*.log
+.DS_Store
